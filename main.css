@@ -15,7 +15,7 @@
   padding-bottom: 20px;
 }
 
-.name, .personal, .text, .skills{
+.name, .personal, .text, .skills, .app{
   font-family: Lobster, "Times New Roman",serif;
   position: relative;
 }
@@ -69,13 +69,13 @@ a.github {
   background-image: url(img/github.png);
 }
 
-.personal h3, .text h3, .skills h3 {
+.personal h3, .text h3, .skills h3, .app h3 {
   font-size: 28px;
   border-bottom: solid 1px #aea18d;
   padding-bottom: 10px;
 }
 
-.personal p, .text p, .skills ul li {
+.personal p, .text p, .skills ul li, .app p {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   display: inline-block;
